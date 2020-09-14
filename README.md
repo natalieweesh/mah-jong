@@ -2,6 +2,8 @@
 
 now you can play mahjong virtually with your friends! check it out here: https://mahjong.nataliewee.com/
 
+<img src="https://media.giphy.com/media/h7pUNcEkmTqNZWVdBb/giphy.gif" alt="mahjong" />
+
 ### to run the app
 
 from the client/ directory, run `npm start` and it will open the app on `localhost:3000`
